@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<style type="text/css">
+	
+		
+        body{
+			background: url('pink.jpeg');
+			/*background: url('sky.jpg');*/
+		}
+        textarea {
+  resize: none;
+}
+.pic{
+line-height: 15rem;
+color: #000000;
+max-width: 100%;
+height: 10rem;
+width: 10rem;
+border-radius: 50%;
+margin:  -80 10 0;
+float: left;
+}
+h1{
+
+    color: cornflowerblue;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  }
+</style>
+<head>
+    
+	<title>welcome page</title>
+</head>
+<body>
+<div id='log1' >
+    <img class="pic"src="https://scontent-hbe1-1.xx.fbcdn.net/v/t1.0-9/20140082_1417750728301619_5384584286635371229_n.jpg?_nc_cat=103&_nc_sid=174925&_nc_ohc=nU5dVJvivxEAX_2oK7D&_nc_ht=scontent-hbe1-1.xx&oh=bbc2dedf926e1007331edd4e7a9d968e&oe=5F50755C" alt="Profile Picture"><br><br>
+<h1> Sarah Hossam</h1>
+    <form action="" method="post" id="welcome-form">
+<button type="button" class="button" name="login" id="Button_one">Go to the Home page </button>
+</form>
+</div>
+<div class="jumbotron">
+<center>
+    
+    <p><h1>Welcome &hearts; &star;</h1> </p>
+
+
+	<div id="log">
+		
+		<form action="" method="post" id="register-form">
+            <input type="text" name="name" id="id1" placeholder="username" required><br><br>
+            <input type="email" id="email" name="email" placeholder="email"required><br><br>			
+            <textarea id="text" name="w3review" rows="10" cols="160" placeholder="What is on your mind  &smile;"></textarea><br><br>
+            <button type=button  name="Register" id="Button_one" class="button" value="Submit">Send a message</button><br><br>
+		</form>
+	</div>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+ 	<script type="text/javascript">
+		$('#Button_one').click(function(e){
+			e.preventDefault();
+            location.href ="home.html";
+		});	
+		
+	</script>
+
+<h3> All Copyright &copy; Reservied</h3>
+
+</center>
+</div>
+
+
+
+</body>
+</html>
