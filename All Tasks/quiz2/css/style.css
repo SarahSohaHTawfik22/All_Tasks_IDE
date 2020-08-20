@@ -16,6 +16,30 @@ a{
     text-decoration: none;
     color: white;
 }
+.container1{
+    padding-top: 0px;
+  position: relative;
+  text-align: center;
+  color: white;
+background-color: white;
+
+}
+.centered1223 {
+
+    position: relative;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+background-color:white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+display: flex;
+    justify-content: space-between;
+
+
+
+  }
 ul{
 
 margin-left: 2px;
@@ -37,6 +61,10 @@ margin-right: 2px;
 .text-center{
 
     text-align: center;
+}
+#idddd11{
+
+    color: black;
 }
 .bg-dark{
 

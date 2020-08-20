@@ -1,0 +1,924 @@
+@charset="Utf-8"
+.banner_section {
+  width: 100%;
+  float: left;
+  background-image: url(../images/banner-bg.png);
+  height: auto;
+  background-size: 100%;
+  padding: 10px 0px 25px 0px;
+  background-repeat: no-repeat;
+}
+
+.banner_taital {
+  width: 100%;
+  float: left;
+  padding: 100px 0px;
+}
+
+.outstanding_text {
+  width: 400em;
+  height: 700em;
+  margin-top: 0px;
+  margin-left: 0px;
+  float: left;
+  font-size: 60px;
+  color: #252525;
+  padding-bottom: 0px;
+
+/* Full height */
+height: 50%;
+margin-left: -61px;
+margin-top: -89px;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size:80px;
+}
+.outstanding_text_1{
+  width: 100em;
+  height: 200em;
+  margin-top: 10px;
+  margin-left: 0px;
+  float: left;
+  font-size: 60px;
+  color: white;
+  padding-bottom: 0px;
+
+/* Full height */
+height: 50%;
+margin-left: -61px;
+margin-top: -89px;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size:80px;
+
+}
+.parag_id55{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 0em;
+
+
+}
+.coffee_text {
+  width: 100%;
+  float: left;
+  font-size: 10px;
+  color: #fdfcfa;
+  font-weight: bold;
+  padding-bottom: 0px;
+}
+.adjust_img{
+height: 31em;
+margin-top: 3em;
+
+}
+.gallery_adjusting{
+text-align: center;
+color: orangered;
+font-size: bold;
+
+}
+
+.learnmore_bt {
+  width: 170px;
+}
+div.gallery {
+  margin: 54px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 272px;
+}
+#idooooooo11{
+
+margin-top: 0em;
+margin-left: 0em;
+
+
+
+}
+#idooooooo12{
+
+  margin-top: -13em;
+  margin-left: 3em;
+
+  
+  
+  }
+  .services_section {
+    width: 100%;
+    float: left;
+    background-image: url(../images/services-bg.png);
+    height: auto;
+    padding-bottom: 100px;
+    background-attachment: fixed;
+}
+
+.services_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+.client_section {
+  width: 100%;
+  float: left;
+}
+
+.client_taital {
+  width: 100%;
+  float: left;
+  font-size: 40px;
+  color: #f76d37;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  text-align: left;
+  
+}
+.main_bt{
+
+  border-radius: 15px;
+  color: white;
+  background-color: orangered;
+  width: 80px;
+
+}
+.massage-bt{
+
+  border-radius: 15px;
+align-items: center;
+
+}
+.email-bt{
+
+border-radius: 15px;
+align-items: center;
+
+}
+.form-group{
+
+  border-radius: 15px ;
+
+margin-top: 5px;
+}
+.menuu_text,.menupart{
+
+  color: white;
+background-color: rgb(5, 5, 31);
+margin-left: 169px;
+}
+.aboutt_text,.textinggg{
+
+color: white;
+background-color: rgb(5, 5, 31);
+margin-left: 202px;
+
+}
+.usefullink_text,.adciptext{
+  color: white;
+  background-color: rgb(5, 5, 31);
+  margin-left: 33px;
+
+
+
+}
+
+.loctext,.Address_left_10{
+
+  color: white;
+  background-color: rgb(5, 5, 31);
+  margin-left: 0px;
+
+}
+.container22{
+
+  background-color:rgb(5, 5, 31) ;
+}
+.Callleft{
+
+  color: white;
+  background-color: rgb(5, 5, 31);
+
+}
+.emaillrftt{
+  color: white;
+  background-color: rgb(5, 5, 31);
+
+
+}
+.copyrightclass{
+
+  color: black;
+  background-color:white;
+
+
+}
+.email_text{
+background-image: url(../images/img-9.png);
+width: 112%;
+padding-bottom: 266px;
+height: 31em;
+background-repeat: repeat;
+text-align: center;
+margin-top: 0em;
+}
+.text_adjust_contact{
+  width: 100%;
+  float: left;
+  font-size: 40px;
+  color: #f76d37;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+
+
+}
+.client_text {
+  width: 100%;
+  font-size: 16px;
+  color: #252525;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.client_section_2 {
+  width: 100%;
+  float: left;
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+
+.testimonial_section_2 {
+  width: 100%;
+  float: left;
+  padding: 0px 40px 30px 40px;
+  position: relative;
+}
+
+.testimonial_section_2::after {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 150px;
+  border-top: 3px solid #252525;
+  border-left: 3px solid #252525;
+  top: 12px;
+  left: 0px;
+  right: initial;
+}
+.quick_icon{
+margin-left: 0em;
+
+}
+.customer_text{
+
+color: black;
+margin-left: 0em;
+font-weight: lighter;
+
+
+}
+.client_name_text{
+
+font-weight: bold;
+color: orangered;
+text-align: center;
+margin-left: -45em;
+
+}
+.testimonial_section_2::before {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 150px;
+  border-bottom: 3px solid #252525;
+  border-right: 3px solid #252525;
+  top: 12px;
+  left: initial;
+  right: 0px;
+}
+
+.services_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 0px;
+    text-align: center;
+}
+
+.house_icon {
+    width: 200px;
+    height: auto;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.house_icon img {
+    width: 45px;
+    min-height: 50px;
+}
+
+.box_main .house_icon .image_2 {
+    display: none;
+}
+
+.box_main:hover .house_icon .image_2 {
+    display: block;
+}
+
+.box_main:hover .house_icon .image_1 {
+    display: none;
+}
+
+.box_main:hover {
+    background-color: #ffffff;
+}
+
+.box_main {
+    width: 100%;
+    background-color: #f76d37;
+    padding: 40px 30px;
+    box-shadow: 0px 0px 18px -6px;
+}
+
+.box_main:hover .decorate_text {
+    color: #000;
+}
+
+.box_main:hover .tation_text {
+    color: #000;
+}
+
+.box_main:hover .readmore_bt {
+    display: block;
+}
+
+.box_main:hover .readmore_bt a {
+    color: #ffffff;
+    background-color: #000;
+}
+
+.services_section_2 {
+    width: 100%;
+    float: left;
+    padding-top: 50px;
+}
+
+.decorate_text {
+    width: 100%;
+    font-size: 28px;
+    color: #ffffff;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.tation_text {
+    width: 100%;
+    font-size: 14px;
+    color: #ffffff;
+    margin: 0px;
+    text-align: center;
+}
+
+.readmore_bt {
+    width: 175px;
+    padding-top: 40px;
+    margin: 0 auto;
+    display: flex;
+    display: none;
+    padding-bottom: 40px;
+}
+
+.readmore_bt a {
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    background-color: #070603;
+    color: #ffffff;
+    text-align: center;
+    padding: 8px;
+    text-transform: uppercase;
+}
+
+.readmore_bt a:hover {
+    color: #ffffff;
+    background-color: #f76d37;
+}
+
+  .seemore_bt{
+    width: 170px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    margin-left: 0em;
+    margin-right: 0em;
+}
+.seemore_bt a {
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #252525;
+  padding: 10px 0px;
+  margin-top: 0px;
+  margin-left: -21em;
+  margin-right: 15em;
+}
+
+.seemore_bt a:hover {
+  background-color: #f76d37;
+  color: #ffffff;
+}
+
+
+  }
+  #idooooooo133{
+
+    margin-top: 6em;
+    margin-left: 0em;
+    width: 18em;
+    height: 9em;
+
+  }
+  #idooooooo13{
+
+    margin-top: -12em;
+    margin-left: 4em;
+
+    
+    
+    }
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.learnmore_bt a {
+  width: 100%;
+  float: left;
+  padding-right: 0;
+  background-color: #272727;
+  color:white;
+  text-align: center;
+  margin-right: 12px;
+  height: 53px;
+  padding: 10px 40px;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-top: 1em;
+  font-size: 13px;
+}
+.gallery_text{
+  width: 100%;
+  float: left;
+  font-size: 16px;
+  text-align: center;
+padding-top: 20px;
+color: rgb(43, 40, 40);
+}
+.learnmore_bt a:hover {
+  background-color: #f76d37;
+  color: #fff;
+}
+
+
+/* banner section end */
+
+/* about section start */
+
+.about_section {
+  width: 100%;
+  float: left;
+}
+
+.about_taital_main {
+  width: 100%;
+  float: left;
+  padding: 120px 0px;
+}
+
+.about_taital {
+  width: 100%;
+  float: left;
+  font-size: 40px;
+  color: #f76d37;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.about_text {
+  width: 100%;
+  float: left;
+  font-size: 16px;
+  color: #4c4c4b;
+  margin: 0px;
+  padding-top: 10px;
+}
+.pic {
+  /* The image used */
+  background-image: url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg");
+
+  /* Full height */
+  height: 50%;
+  margin-left: -61px;
+  margin-top: -89px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:80px
+}
+
+.about_text {
+  width: 100%;
+  float: left;
+  font-size: 16px;
+  color: #4c4c4b;
+  margin: 0px;
+  padding-top: 10px;
+}
+
+img {
+  height: auto;
+}
+
+.read_bt {
+  width: 175px;
+  float: left;
+  padding-top: 40px;
+}
+
+.read_bt a {
+  width: 100%;
+  float: left;
+  font-size: 18px;
+  background-color: #252525;
+  color: #ffffff;
+  text-align: center;
+  padding: 8px;
+}
+
+.read_bt a:hover {
+  color: #ffffff;
+  background-color: #f76d37;
+}
+
+/* about section end */
+
+/* gallery section start */
+body, html {
+  height: 100%;
+}
+.coffee_text {
+  width: 100%;
+  float: left;
+  font-size: 70px;
+  color: #fdfcfa;
+  font-weight: bold;
+  padding-bottom: 0px;
+  margin-left: 0em;
+}
+
+
+.pic {
+  /* The image used */
+  background-image: url("https://technext.github.io/grandcoffee/images/banner-bg.png");
+width: 116%;
+  /* Full height */
+  height:39em;
+  margin-left: -61px;
+  margin-top: 0px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:80px
+}
+
+hr{
+  width: 20px;
+  height: 0.5px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.container1{
+    padding-top: 0px;
+  position: relative;
+  text-align: center;
+  color: white;
+background-color: orangered;
+
+}
+.container12{
+  padding-top: 0px;
+  position: relative;
+  text-align: center;
+  color: black;
+background-color: white;
+margin-top: -43px;
+
+}
+.centered1223{
+
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color:white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+
+
+}
+.centered122{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color: rgb(43, 41, 41);
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+
+
+}
+.centered1233333333{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color: white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+}
+.centered12{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color: white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+}
+.centered1{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color: orangered;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+}
+#navidd{
+
+margin-left: 544px;
+color: orangered;
+
+}
+.navbar-menu-link{
+
+margin-left: 33px;
+margin-top: 25px;
+display: flexbox;
+text-align: right;
+text-decoration: none;
+
+}
+.navbar-menu-link a:hover{
+color: orangered;
+
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 7em;
+  margin-left: -15em;
+}
+#social_icons {
+  padding: .5em;
+  display: inline-block;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  
+  box-shadow: 2px 2px 12 px transparent;
+  padding: 0px 5%;
+
+}
+/* Basic styling */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+nav {
+  background: rgb(27, 27, 27);
+  padding: 0 15px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.menu,
+.submenu {   
+  list-style-type: none;
+}
+.logo {
+  font-size: 20px;
+  padding: 7.5px 10px 7.5px 0;
+  color: white;
+}
+.item {
+  padding: 10px;
+  color: white;
+  text-align: right;
+  margin-left: 50px;
+  background-color:rgb(27, 27, 27) ;
+}
+.item.button {
+  padding: 9px 5px;
+}
+.item:not(.button) a:hover,
+.item a:hover::after {
+  color: #ccc;
+}
+/* Mobile menu */
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: right;
+}
+.menu li a {
+  display: block;
+  padding: 15px 5px;
+}
+.menu li.subitem a {
+  padding: 15px;
+}
+.toggle {
+  order: 1;
+  font-size: 20px;
+}
+.item.button {
+  order: 2;
+}
+.item {
+  order: 3;
+  width: 100%;
+  text-align: center;
+  display: none;
+}
+.active .item {
+  display: block;
+}
+.button.secondary { /* divider between buttons and menu links */
+  border-bottom: 1px #444 solid;
+}
+
+/* Add a black background color to the top navigation */
+#myTopnav{
+
+  background-color:  rgb(48, 45, 45);
+margin-right: 0px;
+
+}
+.topnav {
+    background-color:  rgb(48, 45, 45);
+    width: 100%; 
+    margin-left: 0px;
+ }
+ #id_logoo{
+width: 112%;
+background-color:  rgb(48, 45, 45);
+margin-left: -9px;
+
+
+ }
+ #logoo{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    background-color: rgb(48, 45, 45);
+    text-align: left;
+    padding: 28px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 0px;
+    margin-top: -8px;
+    padding-left: 0px;
+    width: 62%;
+  }
+ 
+/* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    background-color:  rgb(48, 45, 45);
+    text-align: right;
+    padding: 28px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: -8px;
+    padding-left: 0px;
+    margin-right: 0px;
+  }
+  .picoutr{
+  /* The image used */
+margin-top: -511px;
+width: 100%;
+padding-left: 0em;
+padding-right: 0em;
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  /* The image used */
+  background-image: url("../images/about-img.png");
+
+
+  }
+  
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(48, 45, 45);
+    color: orangered;
+  }
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    color: #504c4cck;
+  }
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    display: none;
+  }
+  /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+  @media screen and (max-width: 600px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+  
