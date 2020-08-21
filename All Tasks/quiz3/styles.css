@@ -1,0 +1,480 @@
+body, html {
+    height: 100%;
+  }
+  
+  .pic {
+    /* The image used */
+    background-image: url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg");
+  
+    /* Full height */
+    height: 50%;
+    margin-left: -61px;
+    margin-top: -89px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:80px
+  }
+
+hr{
+    width: 20px;
+    height: 0.5px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .container1{
+      padding-top: 0px;
+    position: relative;
+    text-align: center;
+    color: white;
+background-color: white;
+
+  }
+  .container16{
+    position: relative;
+    text-align: center;
+    color: black;
+background-color: white;
+
+  }
+  .container12{
+    padding-top: 0px;
+    position: relative;
+    text-align: center;
+    color: black;
+background-color: white;
+margin-top: 16px;
+
+  }
+  .centered1223{
+
+    position: relative;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+background-color:gray;
+height:270px;
+width: 104%;
+margin-top: 80px;
+
+
+
+  }
+  #praa1{
+
+
+    text-decoration-line: underline;
+    text-decoration-color: pink;
+  }
+  .centered122{
+    position: relative;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+background-color: white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+
+
+  }
+  a{
+color: white;
+
+  }
+  .centered1233333333{
+    position: relative;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+background-color: white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+  }
+  .centered12{
+    position: relative;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+background-color: white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+  }
+  .centered1{
+    position: relative;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+background-color: white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+  }
+  i{
+
+
+
+  }
+  h2{
+
+    text-decoration-line: underline ;
+text-decoration-color: red;
+  }
+  .centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  #social_icons {
+    padding: .5em;
+    display: inline-block;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    
+    box-shadow: 2px 2px 12 px transparent;
+    padding: 0px 5%;
+
+}
+#idddd11{
+
+    color: black;
+}
+#iddddAAA{
+
+    color: black;
+}
+#idd1{
+ color: black;
+
+
+}
+#idd2{
+    color: black;
+   
+   
+   }#idd3{
+    color: black;
+   
+   
+   }#idd4{
+    color: black;
+   
+   
+   }#idd5{
+    color: black;
+   
+   
+   }
+nav ul{
+    display: flex;
+}
+
+
+.navigation-bar {
+    width: 100%;  
+margin-top: 5px;
+;    background-color:black; 
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+.navigation-bar > a {
+    display: inline-block;
+    vertical-align: top;
+    height: 60px;        
+    line-height: 50px;    
+}
+
+
+.navbar-items-c {
+    display: inline-block;
+    float: right;
+}
+
+.navbar  {
+    background-color: transparent;
+    color: white;
+    min-height: 50px;
+    width: 100%;
+ 
+}
+.navbar a:hover {
+    background: #ddd;
+    color: white;
+  }
+
+.navbar-container {
+    max-width: 950px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 95%;
+}
+
+.navbar-container::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: black;
+  }
+.navbar-brand {
+    vertical-align: top;
+    display: inline-block;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    min-height: 50px;
+    min-width: 50px;
+    color: inherit;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+a{
+
+    margin-left: 10px;
+    margin-top: 10px;
+    color: black;
+    font-size: large;
+    margin-top: 11px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: white;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+#btn_1{
+background-color: transparent;
+border-radius:50px;
+color: white;
+border: none;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+
+}
+#btn_2{
+
+    background-color: pink;
+    border-radius:25px;
+    color: black;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+
+}
+#btn_1122{
+    background-color: white;
+    border-radius:25px;
+    color: black;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+
+
+
+}
+p{
+color: white;
+text-align: center;
+text-decoration: none;    
+    
+    font-size: -68px;
+    
+    }
+    #parag_id11111{
+
+        font-size: 20px;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+
+    }
+    #parag_id1{
+font-size: 20px;
+color: white;
+text-align: center;
+text-decoration: none;
+
+
+    }
+    #ID33333{
+        font-size: 20px;
+        color: black;
+        text-align: center;
+text-decoration-line: underline;
+text-decoration-color: red;
+    }
+    #ID33233{
+
+padding-top: 0px;
+padding-bottom: 0px;
+      background-color: grey;
+      height: 100px;
+      position:relative ;
+    }
+    #btn_5{
+
+
+background-color: orangered;
+color: white;
+margin-top: 0px;
+border-radius: 10px;
+
+    }
+    #parag_id3{
+        font-size: 20px;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+
+
+    }
+.navbar-menu {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    display: block;
+    float: right;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.navbar-menu-link {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: white;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+
+.navbar-burger {
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    width: 45px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    display: none;
+    float: right;
+    cursor: pointer;
+}
+
+.navbar-burger-line {
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    background-color: white;
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
+  
+  /* Style the images inside the grid */
+  .column img {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  
+  .column img:hover {
+    opacity: 1;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* The expanding image container (positioning is needed to position the close button and the text) */
+  .container22 {
+    position: relative;
+    display: none;
+  }
+  
+  /* Expanding image text */
+  #imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  /* Closable button inside the image */
+  .closebtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+  }
