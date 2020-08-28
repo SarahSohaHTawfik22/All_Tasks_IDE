@@ -1,0 +1,799 @@
+@charset="Utf-8"
+.
+
+.outstanding_text {
+  width: 400em;
+  height: 700em;
+  margin-top: 0px;
+  margin-left: 0px;
+  float: left;
+  font-size: 60px;
+  color: #252525;
+  padding-bottom: 0px;
+
+/* Full height */
+height: 50%;
+margin-left: -61px;
+margin-top: -89px;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size:80px;
+}
+
+.parag_id55{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 0em;
+
+
+}
+.coffee_text {
+  width: 100%;
+  float: left;
+  font-size: 10px;
+  color: #fdfcfa;
+  font-weight: bold;
+  padding-bottom: 0px;
+}
+.pico2020fix{
+height: 31em;
+margin-top: 3em;
+margin-left: 279px;
+
+}
+.gallery_adjusting{
+text-align: center;
+color: orangered;
+font-size: bold;
+
+}
+
+
+#idooooooo11{
+
+margin-top: 0em;
+margin-left: 0em;
+
+
+
+}
+#idooooooo12{
+
+  margin-top: -13em;
+  margin-left: 3em;
+
+  
+  
+  }
+  .PICOSERVI {
+    width: 100%;
+    float: left;
+    background-image: url(../images/services-bg.png);
+    height: auto;
+    padding-bottom: 100px;
+    background-attachment: fixed;
+    margin-left: 166px;
+}
+
+.paragraphoservices {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #ffffff;
+    margin-left: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+.client_section {
+  width: 100%;
+  float: left;
+}
+
+.TESTIMONIALPARA555 {
+  width: 100%;
+  float: left;
+  font-size: 40px;
+  font-weight: bold;
+margin-left: 0px; 
+color: #f76d37;
+
+}
+.buttomsending{
+
+  border-radius: 15px;
+  color: white;
+  background-color: orangered;
+  width: 80px;
+
+}
+.betenin55t{
+
+  border-radius: 15px;
+align-items: center;
+
+}
+
+.btummemail{
+
+border-radius: 15px;
+align-items: center;
+
+}
+.form-group{
+
+  border-radius: 15px ;
+
+margin-top: 5px;
+}
+.listaaaaacontaaa{
+
+  color: white;
+background-color: rgb(5, 5, 31);
+margin-left: 169px;
+
+}
+.TESTOUmoniallll666{
+
+color: white;
+background-color: rgb(5, 5, 31);
+margin-left: 202px;
+
+}
+.alllcollect444{
+  color: white;
+  background-color: rgb(5, 5, 31);
+  margin-left: 33px;
+padding-left: 0px;
+width: 0px;
+
+
+}
+.contaa44446358{
+
+  color: white;
+background-color: rgb(5, 5, 31);
+margin-left: 169px;
+}
+.loctexcontan22200100410t{
+
+  color: white;
+  background-color: rgb(5, 5, 31);
+  margin-left: 0px;
+padding-left: 0px;
+width: 0px;
+}
+.movmat555{
+
+  color: white;
+  background-color: rgb(5, 5, 31);
+  margin-left: 0px;
+
+}
+.textinggg{
+
+  color: white;
+  background-color: rgb(5, 5, 31);
+  margin-left: 202px;
+  
+  }
+  .adrrz44444{
+    color: white;
+    background-color: rgb(5, 5, 31);
+    margin-left: 33px;
+  
+  
+  
+  }
+.container22{
+
+  background-color:rgb(5, 5, 31) ;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.marginaa55{
+
+  color: white;
+  background-color: rgb(5, 5, 31);
+
+}
+.emalak8888{
+  color: white;
+  background-color: rgb(5, 5, 31);
+
+
+}
+.copyrightclass{
+
+  color: black;
+  background-color:white;
+
+
+}
+.contanntem{
+background-image: url(../images/img-9.png);
+width: 120%;
+height: 28em;
+background-repeat: no-repeat;
+text-align: center;
+margin-top: 0em;
+}
+.tformaaacont{
+  width: 100%;
+  float: left;
+  font-size: 35px;
+  color: #f76d37;
+  text-align: center;
+
+
+}
+.TESTOUmoniallll666{
+  width: 100%;
+  font-size: 16px;
+  color: #252525;
+  margin: 0 auto;
+  margin-left: 0px;
+  text-align: left;
+}
+
+.client_section_2 {
+  width: 100%;
+  float: left;
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+
+.testimonial_section_2 {
+  width: 100%;
+  float: left;
+  padding: 0px 40px 30px 40px;
+  position: relative;
+}
+
+.testimonial_section_2::after {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 150px;
+  border-top: 3px solid #252525;
+  border-left: 3px solid #252525;
+  top: 12px;
+  left: 0px;
+  right: initial;
+}
+.quick_icon{
+margin-left: 0em;
+
+}
+.customer_text{
+
+color: black;
+margin-left: 0em;
+font-weight: lighter;
+
+
+}
+
+
+
+.paragraph555555203 {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+margin-left: 0px;    
+text-align: center;
+}
+
+.CenteringContant22 {
+    width: 100%;
+    float: left;
+    padding-top: 50px;
+}
+
+.para77777777777777777777 {
+    width: 100%;
+    font-size: 28px;
+    color: #ffffff;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.excersizzz2 {
+    width: 100%;
+    font-size: 14px;
+    color: #ffffff;
+margin-left: 0px;    
+text-align: center;
+}
+
+.btum6666666 {
+    width: 175px;
+    padding-top: 40px;
+margin-left: 0px;    
+display: flex;
+    display: none;
+    padding-bottom: 40px;
+}
+
+
+
+  #idooooooo133{
+
+    margin-top: 6em;
+    margin-left: 0em;
+    width: 18em;
+    height: 9em;
+
+  }
+  #idooooooo13{
+
+    margin-top: -12em;
+    margin-left: 4em;
+
+    
+    
+    }
+
+.learnmore_bt a {
+  width: 100%;
+  float: left;
+  padding-right: 0;
+  background-color: #272727;
+  color:white;
+  text-align: center;
+  margin-right: 12px;
+  height: 53px;
+  padding: 10px 40px;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-top: 1em;
+  font-size: 13px;
+}
+.paragraaaaa222{
+  width: 100%;
+  float: left;
+  font-size: 13px;
+  text-align: center;
+  margin-left: 125px;
+padding-top: 20px;
+color: rgb(43, 40, 40);
+}
+.learnmore_bt a:hover {
+  background-color: #f76d37;
+  color: #fff;
+}
+
+
+/* banner section end */
+
+/* about section start */
+
+.about_section {
+  width: 100%;
+  float: left;
+}
+.navbarmargin_right{
+margin-left: 0px;
+
+
+}
+.paragraphoabout{
+  width: 100%;
+  float: left;
+  padding: 120px 0px;
+  margin-left: 177px;
+}
+
+.paragraphoabout11 {
+  width: 100%;
+  float: left;
+  font-size: 40px;
+  color: #f76d37;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.paragraphoabout1122 {
+
+  width: 100%;
+  float: left;
+  font-size: 16px;
+  color: #4c4c4b;
+  margin: 0px;
+  padding-top: 10px;
+}
+.pic {
+  /* The image used */
+  background-image: url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg");
+
+  /* Full height */
+  height: 50%;
+  margin-left: -61px;
+  margin-top: -89px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:80px
+}
+
+.about_text {
+  width: 100%;
+  float: left;
+  font-size: 16px;
+  color: #4c4c4b;
+  margin: 0px;
+  padding-top: 10px;
+}
+
+img {
+  height: auto;
+}
+.image-gallery11{
+  margin-left: 278px;
+color: #f76d37;
+text-align: center;
+}
+.image-gallery{
+  margin-left: 278px;
+}
+.image-gallery .images{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.image-gallery .images img{
+  height: 400px;
+  margin: 10px;
+  width: 30%;
+  transition: all 1s ease-in-out;
+}
+
+.image-gallery .images img:hover{
+  transform: scale(1.2);
+}
+.parag808000 {
+  width: 175px;
+  float: left;
+  margin-left: 184px;
+  padding-top: 40px;
+
+}
+
+.parag808000 a {
+  width: 100%;
+  float: left;
+  font-size: 18px;
+  background-color: #252525;
+  color: #ffffff;
+  text-align: center;
+  padding: 8px;
+}
+
+
+/* about section end */
+
+/* gallery section start */
+body, html {
+  height: 100%;
+}
+.coffee_text {
+  width: 100%;
+  float: left;
+  font-size: 70px;
+  color: #fdfcfa;
+  font-weight: bold;
+  padding-bottom: 0px;
+  margin-left: 0em;
+}
+
+
+.pic {
+  /* The image used */
+  background-image: url("https://technext.github.io/grandcoffee/images/banner-bg.png");
+  width: 139%;
+  /* Full height */
+  height:39em;
+  margin-left: -22px;
+  margin-top: 0px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:80px;
+}
+
+hr{
+  width: 20px;
+  height: 0.5px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-left: 0px;
+}
+.containerimag{
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-left: 0px;
+
+}
+.container1{
+    padding-top: 0px;
+  position: relative;
+  text-align: center;
+  color: white;
+background-color: orangered;
+
+}
+.container12{
+  padding-top: 0px;
+  position: relative;
+  text-align: center;
+  color: black;
+background-color: white;
+margin-top: -43px;
+
+}
+.centered1223{
+
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color:white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+
+
+}
+.centered122{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color: rgb(43, 41, 41);
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+
+
+}
+.centered1233333333{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color: white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+}
+.centered12{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color: white;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+}
+.centered1{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+background-color: orangered;
+height:270px;
+width: 104%;
+margin-top: 25px;
+
+}
+#navidd{
+
+margin-left: 790px;
+
+color: orangered;
+}
+.navbar-menu-link{
+
+margin-left: 33px;
+margin-top: 25px;
+display: flexbox;
+text-align: right;
+text-decoration: none;
+
+}
+.navbar-menu-link a:hover{
+color: orangered;
+
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 7em;
+  margin-left: -8em;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  
+  box-shadow: 2px 2px 12 px transparent;
+  padding: 0px 5%;
+
+}
+/* Basic styling */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+nav {
+  background: rgb(27, 27, 27);
+  padding: 0 15px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+.menu,
+.submenu {   
+  list-style-type: none;
+}
+.logo {
+  font-size: 20px;
+  padding: 7.5px 10px 7.5px 0;
+  color: white;
+}
+.item {
+  padding: 10px;
+  color: white;
+  text-align: right;
+  margin-left: 50px;
+  background-color:rgb(27, 27, 27) ;
+}
+.item.button {
+  padding: 9px 5px;
+}
+.item:not(.button) a:hover,
+.item a:hover::after {
+  color: #ccc;
+}
+/* Mobile menu */
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: right;
+}
+.menu li a {
+  display: block;
+  padding: 11px 5px;
+}
+.menu li.subitem a {
+  padding: 15px;
+}
+.toggle {
+  order: 1;
+  font-size: 20px;
+}
+.item.button {
+  order: 2;
+}
+.item {
+  order: 3;
+  width: 100%;
+  text-align: center;
+  display: none;
+}
+.active .item {
+  display: block;
+}
+.button.secondary { /* divider between buttons and menu links */
+  border-bottom: 1px #444 solid;
+}
+
+/* Add a black background color to the top navigation */
+#myTopnav{
+
+  background-color:  rgb(48, 45, 45);
+margin-right: 0px;
+
+}
+.topnav {
+    background-color:  rgb(48, 45, 45);
+    width: 100%; 
+    margin-left: 0px;
+ }
+ #id_logoo{
+width: 112%;
+background-color:  rgb(48, 45, 45);
+margin-left: -9px;
+
+
+ }
+ #logoo{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    background-color: rgb(48, 45, 45);
+    text-align: left;
+    padding: 28px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 0px;
+    margin-top: -8px;
+    padding-left: 0px;
+    width: 62%;
+  }
+ 
+/* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    background-color:  rgb(48, 45, 45);
+    text-align: right;
+    padding: 28px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: -8px;
+    padding-left: 0px;
+    margin-right: 0px;
+  }
+  .picoutr{
+  /* The image used */
+margin-top: -511px;
+width: 100%;
+padding-left: 0em;
+padding-right: 0em;
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  /* The image used */
+  background-image: url("../images/about-img.png");
+
+
+  }
+  
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(48, 45, 45);
+    color: orangered;
+  }
+  
+  .topnav a.active {
+    color: #504c4cck;
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
+  
+  
