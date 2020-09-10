@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Session 2 Task 2 JS</title>
+
+    </head>
+    <body>
+        <input type="number" id="number1">
+        <button id="sum" onClick="onClickHandleconv()">Convert minutes to sec</button>
+        <h3>Result: <span id="result">0</span></h3>
+        
+        <script>
+            printResult('Please enter the minutes you need to convert to seconds');
+
+
+            function onClickHandleconv() {
+                var n1 = parseFloat(document.getElementById('number1').value);
+                printResult(convert(n1));
+            }
+
+            function convert(n1) {
+
+            return (n1* 60 + ' seconds');
+            }
+
+            function printResult(result) {
+                document.getElementById('result').innerHTML = '<p style="color: red">' + result + '</p>';
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Session 2 Task 2 JS</title>
+
+    </head>
+    <body>
+        <input type="number" id="number1" placeholder="wins">
+        <input type="number" id="number2" placeholder="draws">
+        <input type="number" id="number3" placeholder="losses"><br>
+        <button id="sum" onClick="onClickHandleconv()"> Calculate Football Points</button>
+        <h3>Result: <span id="result">0</span></h3>
+        
+        <script>
+            printResult('Please enter Inputs which will be numbers greater than or equal to 0.');
+
+            function onClickHandleconv() {
+                var n1 = parseFloat(document.getElementById('number1').value), 
+                n2 = parseFloat(document.getElementById('number2').value), n3 = parseFloat(document.getElementById('number3').value);
+                if(n1>=0 & n2>=0 & n3>=0){
+                printResult(convert(n1,n2,n3));
+            }
+            
+            }
+
+            function convert(n1,n2,n3) {
+
+            return (n1*3+n2*1+n3*0);
+            }
+
+            function printResult(result) {
+                document.getElementById('result').innerHTML = '<p style="color: red">' + result + '</p>';
+            }
+        </script>
+    </body>
+</html>

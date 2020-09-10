@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Session 2 Task 2 JS</title>
+
+    </head>
+    <body>
+        <input type="number" id="number1" placeholder="Upvote">
+        <input type="number" id="number2" placeholder="downvote">
+        <button id="sum" onClick="onClickHandleconv()"> Count final votes</button>
+        <h3>Result: <span id="result">0</span></h3>
+        
+        <script>
+            printResult('Please enter the two numbers and You can expect only positive integers for vote counts.');
+
+            function onClickHandleconv() {
+                var n1 = parseInt(document.getElementById('number1').value), 
+                n2 = parseInt(document.getElementById('number2').value);
+                printResult(convert(n1,n2));
+
+            
+            }
+
+            function convert(n1,n2) {
+                
+                return n1-n2;
+            }
+            
+               
+          
+            function printResult(result) {
+                document.getElementById('result').innerHTML = '<p style="color: red">' + result + '</p>';
+            }
+        </script>
+    </body>
+</html>
