@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Session 4 Task JS</title>
+
+    </head>
+    <body style="background: rgb(223, 149, 200);">
+        
+        <button id="sum" style="background: royalblue; width: 100px;height: 80px;" onClick="onClickHandledetail11()"> ITEM 1</button>
+        <button id="sum" style="background: royalblue;width: 100px;height: 80px;" onClick="onClickHandledetail22()"> ITEM 2</button>
+        <button id="sum" style="background: royalblue;width: 100px;height: 80px;"onClick="onClickHandledetail33()"> ITEM 3</button>
+        <button id="sum" style="background: royalblue;width: 100px;height: 80px;" onClick="onClickHandledetail44()"> ITEM 4</button>
+        <p id="detailss" style="color: rgb(21, 75, 37);"><span></span></p>
+        
+        <script>
+
+            function onClickHandledetail11() {
+                document.getElementById("detailss").innerHTML =
+        "<span>ITEM 1: </span>" +  " " + "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            
+            }
+
+            function onClickHandledetail22() {
+                
+                document.getElementById("detailss").innerHTML =
+        "<span>ITEM 2: </span>" +  " " + "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+                        }
+            function onClickHandledetail33() {
+                
+                document.getElementById("detailss").innerHTML =
+               "<span >ITEM 3: </span>" +  " " + "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                         
+            }
+            function onClickHandledetail44() {
+                
+                document.getElementById("detailss").innerHTML =
+                "<span>ITEM 4: </span>" +  " " + "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+                         
+            }
+            
+               
+          
+            function printResult(result) {
+                document.getElementById('result').innerHTML = '<p style="color: red">' + result + '</p>';
+            }
+        </script>
+    </body>
+</html>
